@@ -20,6 +20,7 @@ Com base nestas informações, o nosso trabalho será aplicar tudo o que aprende
 
 
 MODULO 1
+
 Agora que aprendemos sobre Arquitetura, como a Ciência de Dados transforma empresas, como resolvemos velhos problemas de novas formas e sobre os Frameworks existentes, nosso trabalho será montar uma visão da arquitetura que poderíamos utilizar na Leega Foods com 2 opções para apresentar ao board de diretores:
 	 a 1ª utilizando o modelo on-premise
 	a 2ª usando um modelo Cloud (IAAS, SAAS, PAAS). 
