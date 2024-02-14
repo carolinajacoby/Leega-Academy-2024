@@ -1,6 +1,7 @@
 # Leega-Academy-2024 - DESAFIO 1
 
 CONTEXTO
+
 Dentro da política de expansão e geração de negócios, o Board de acionistas da Leega decidiu investir no setor de Varejo e Ecommerce. Para isto decidiu adquirir uma empresa que opera globalmente, a SupremEats, e após fechado o negócio, definiram que o novo nome será Leega Foods.
 A nossa equipe de ciência de dados formada por analistas, engenheiros e cientistas de dados foi chamada para várias reuniões. Nelas tivemos oportunidade de conhecer esta operação e como estão montadas as soluções de tecnologia, mas, durante estas reuniões percebemos que empresa antiga não possuía uma solução de Analytics, e muito menos Ciência de Dados, e, para que possamos crescer ainda mais teremos que criar uma solução capaz de suportar a operação desta nova empresa e gerar importantes insights para nossos acionistas.
 Toda operação está apoiada por um “ERP Caseiro” desenvolvido em Access (Microsoft) que foca em transações operacionais. Esta solução possui as seguintes bases:
