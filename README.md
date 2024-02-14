@@ -49,7 +49,7 @@ A Biblioteca expandiu seu acervo e seus serviços. Foram criados os setores circ
 Durante a negociação do projeto, ficou acordado quefaremos: a melhor modelagem física baseada no modelo logico entregue (e caso encontremos erro a refaremos para garantir que a modelagem atenda todas as solicitações, carga destes dados reduzidos do arquivo Excel (em anexo), a criação da 1ª versão do dicionário de dados e os SQLspara as seguintes solicitações (que eles imaginaram):
 
 1. A Diretora Camilla Prado solicitou uma pesquisa que informe todas as obras cadastradas no acervo ordenadas por data de publicação.
-2. 
+   
 2.O Governador vai doar duzentos livros para a Biblioteca, mas só irá doar se a biblioteca tiver menos de 300 obras. O Gerente Márcio Tales solicitou que fosse feita a contagem de quantas obrasa Biblioteca possui atualmente.
 
 3.A Gerência solicitou uma pesquisa para saber quais datas ocorreram empréstimos de livros e a quantidade emprestada. A consulta deverá retornar apenas um registro para cada data.
