@@ -19,8 +19,6 @@ E, a modelagem que existe nesta aplicação está disponível no ERP_SUPREMEATS.
 Com base nestas informações, o nosso trabalho será aplicar tudo o que aprendemos nos módulos e “operacionalizar” a solução de Analytics e Data Science da Leega Foods.
 
 
-# MODULO 1
-
 Agora que aprendemos sobre Arquitetura, como a Ciência de Dados transforma empresas, como resolvemos velhos problemas de novas formas e sobre os Frameworks existentes, nosso trabalho será montar uma visão da arquitetura que poderíamos utilizar na Leega Foods com 2 opções para apresentar ao board de diretores:
 	 a 1ª utilizando o modelo on-premise
 	a 2ª usando um modelo Cloud (IAAS, SAAS, PAAS). 
@@ -33,12 +31,12 @@ E, finalmente devemos ao apresentar ao Board, explicar:
 Deveremos, ainda, tocar e oferecer respostas as seguintes questões que poderiam surgir:
 4.	Quais os velhos problemas que poderíamos resolver? E Por quê?
 5.	Quais os pilares que foram levados em consideração na montagem desta arquitetura? E busque explicar o que cada um deles trará de benefícios e resultados a nova empresa (a Leega Foods)!
-Vamos lá, este é o desafio. 
+Vamos lá, este é o desafio.
 
 
-# Leega-Academy-2024 -Desafio 2- SQL 
+# Leega-Academy-2024 -DESAFIO2 - SQL 
 
-# Contexto 
+ Contexto 
 
 A Biblioteca Municipal do Estado foi inaugurada pelo governo, em 11 de dezembro de 1988. Inicialmente, atendia a zona central do município pela pequena quantidade de obras que tinha, mas o acervo inicial foi ampliado com a colaboração de várias entidades e cidadãos e hoje seu acervo ultrapassa mais de vinte mil obras e revistas.
 A Biblioteca expandiu seu acervo e seus serviços. Foram criados os setores circulantes para o público infanto-juvenil e adultos, onde os mesmo poderiam ter um maior contato com as obras incentivando a leitura da população. O projeto de informatização foi totalmente implantado em 1999. No mesmo ano, foi instalada a sala de internet,com computadores para acesso à internet. Em razão da necessidade de um local melhor que atendesse a grande quantidade de usuários e o aumento do acervo, a biblioteca mudou de local e hoje está em um lugar mais adequado, o espaço passou por reforma e planejamento arquitetônico e foi inaugurada no dia 22 de setembro de 2012. Recentemente, nos conheceram e nos contrataram para criar a sua Base de Dados com informações cadastrais do acervo, usuário, funcionário, empréstimo e reserva. Esses dados eram armazenados em arquivos de pastas suspensas e com isso a biblioteca não tinha um controle eficiente das informações, a consulta do acervo, controle de reserva e empréstimo eram feitos manualmente. A Biblioteca trabalha com um sistema de empréstimo de livros no qual o usuário pode reservar ou retirar diversos livros para utilizar em um tempo determinado, caso a devolução seja feita depois da data estipulada a pessoa deverá pagar uma multa por atraso. Para que pudéssemos realizar o projeto a equipe da Bibliotecanos entregou um modelo lógico (imaginado por eles –veja ao lado) e um arquivo excel–”dados_biblioteca.csv” contendo algumas das informações a serem inseridas na Base de Dados para podermos testar a modelagem e testar a viabilidade das solicitações.
